@@ -1,0 +1,16 @@
+{
+  "name": "1.supernames",
+  "version": "1.0.0",
+  "description": "This is a project in which we are going to find out different types of names for the superheroes and supervillians.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "2.intro_to_express",
+  "version": "1.0.0",
+  "description": "Introduction to Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
